@@ -1,0 +1,15 @@
+table{
+    border: 3px pink solid;
+    border-collapse: collapse;
+    margin:auto;
+}
+th,td{
+    border:3px pink solid;
+}
+th{
+    padding:12px;
+    background-color: burlywood;
+}
+th:hover{
+    color:palevioletred;
+}
